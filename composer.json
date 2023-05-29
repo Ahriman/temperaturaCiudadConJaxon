@@ -6,12 +6,6 @@
     "config": {
         "optimize-autoloader": true
     },
-    "authors": [
-        {
-            "name": "Nombre",
-            "email": "a@a.es"
-        }
-    ],
     "require": {
         "google/apiclient": "^2.14",
         "google/cloud-logging": "^1.5",
